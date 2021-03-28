@@ -1,0 +1,134 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+
+body{
+  background-image:url(background.jpg);
+  background-size: 100%;
+}
+
+header{
+  text-align: center;
+  color: #00DD00;
+  width: auto;
+  margin-top: 20px;
+  line-height: 10px;
+}
+
+img {
+  width: 200px;
+  margin-top: 70px;
+}
+
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #00DD00;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+#Navbar{
+  background-color: #00DD00;
+  margin-left: 80px;
+  width: 80%;
+  border: 6px solid #00DD00;
+  margin-bottom: 15px;
+
+}
+
+
+#Monopattino{
+  padding-bottom: 10px;
+  margin-left: 80px;
+  width: 80%;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+#Monopattino2{
+
+  margin-left: 80px;
+  width: 80%;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+
+#Monopattino3{
+  padding-top: 10px;
+  margin-left: 80px;
+  width: 80%;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+
+
+
+.testo {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+
+.Blocco{
+  background-color: rgba(0,0,0,0.5);
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
+.Stato {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #FFFFFF;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+
+#Verde {
+  width: 70%;
+  background-color: #1EC31E;
+  border-radius: 8px;
+  height: 20px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#Giallo {
+  width: 40%;
+  background-color: #F5B453;
+  border-radius: 8px;
+  height: 20px;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+#Rosso {
+  width: 20%;
+  background-color: #BE4141;
+  border-radius: 8px;
+  height: 20px;
+  margin-left: 0px;
+  margin-top: 10px;
+}
